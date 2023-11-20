@@ -2,6 +2,8 @@
 ![raw](https://repository-images.githubusercontent.com/721252319/1071e58c-f9a7-4844-82d0-66bcb45aefb4)
 Godzilla does not have any commercial version/payload version.
 
+   To build your Skinet Botnet with Godzilla ---> [SkynetBotnet](https://github.com/R4GN4R0K-SEC/Skynet-Botnet)
+
 ## Runtime environment
  1. JavaDynamicPayload -> java1.0及以上
  2. CShapDynamicPayload -> .net2.0及以上
