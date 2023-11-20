@@ -2,8 +2,8 @@
 
 # ![Godzilla has 3 built-in Payloads, 6 built-in encryptors, 6 built-in script suffixes, and 20 built-in plug-ins](https://repository-images.githubusercontent.com/721252319/1071e58c-f9a7-4844-82d0-66bcb45aefb4)
 # Godzilla has 3 built-in Payloads, 6 built-in encryptors, 6 built-in script suffixes, and 20 built-in plug-ins
-# To build your Skynet Botnet with Godzilla ---> [SkynetBotnet](https://github.com/R4GN4R0K-SEC/Skynet-Botnet)
 (Godzilla does not have any commercial version/payload version)
+# To build your Skynet Botnet with Godzilla ---> [SkynetBotnet](https://github.com/R4GN4R0K-SEC/Skynet-Botnet)
 
 
 ## Runtime environment
