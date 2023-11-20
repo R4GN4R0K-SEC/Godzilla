@@ -1,6 +1,6 @@
 # GODZILLA
-
-# Godzilla does not have any commercial version/payload version.
+![raw](https://repository-images.githubusercontent.com/721252319/1071e58c-f9a7-4844-82d0-66bcb45aefb4)
+Godzilla does not have any commercial version/payload version.
 
 ## Runtime environment
  1. JavaDynamicPayload -> java1.0及以上
