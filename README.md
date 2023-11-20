@@ -2,7 +2,7 @@
 
 # Godzilla does not have any commercial version/payload version.
 
-## 运行环境 "Runtime environment"
+## Runtime environment
  1. JavaDynamicPayload -> java1.0及以上
  2. CShapDynamicPayload -> .net2.0及以上
  3. PhpDynamicPayload ->  4.3.0及以上
