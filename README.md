@@ -3,17 +3,16 @@
 # 哥斯拉不存在任何商业版本/收费版本 
 # Godzilla does not have any commercial version/payload version.
 
-## 运行环境
+## 运行环境 "Runtime environment"
  1. JavaDynamicPayload -> java1.0及以上
  2. CShapDynamicPayload -> .net2.0及以上
  3. PhpDynamicPayload ->  4.3.0及以上
  4. AspDynamicPayload -> 全版本
 
-## 简介 
-## Introduction of Godzilla
+## 简介 "Introduction of Godzilla"
 
 
-### Payload以及加密器支持
+### Payload以及加密器支持 "and encryptor support"
 
 哥斯拉内置了3种Payload以及6种加密器,6种支持脚本后缀,20个内置插件
 Godzilla has 3 built-in Payloads, 6 built-in encryptors, 6 built-in script suffixes, and 20 built-in plug-ins.
@@ -41,25 +40,26 @@ Godzilla has 3 built-in Payloads, 6 built-in encryptors, 6 built-in script suffi
      2. PHP_XOR_RAW
 	     1. php
 
-### Raw or Base64 加密器区别
+### Raw or Base64 加密器区别 "encryptor features"
 
 Raw : Raw是将加密后的数据直接发送或者输出 
-      Raw is to send or output encrypted data directly.
+         "is to send or output encrypted data directly"
 
 ![raw](https://raw.githubusercontent.com/BeichenDream/Godzilla/master/raw.png)
 
 Base64 : Base64是将加密后的数据再进行Base64编码
+         "Base64 encoding of the encrypted data"
 
 ![base64](https://raw.githubusercontent.com/BeichenDream/Godzilla/master/base64.png)
 
-## 插件支持 Plug-in support
+## 插件支持 "Plug-in support"
 
  1. JavaDynamicPayload
        1. MemoryShell
 
      ```
      支持 哥斯拉 冰蝎 菜刀 ReGeorg 的内存shell  并且支持卸载
-     Support Godzilla, Ice Scorpion, Chopper, ReGeorg's memory shell and uninstallation support.
+     "Support Godzilla, Ice Scorpion, Chopper, ReGeorg's memory shell and uninstallation support"
      ```
 
        2. Screen
