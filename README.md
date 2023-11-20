@@ -40,24 +40,21 @@ Godzilla has 3 built-in Payloads, 6 built-in encryptors, 6 built-in script suffi
 
 ### Raw or Base64 加密器区别 "encryptor features"
 
-Raw : Raw是将加密后的数据直接发送或者输出 
-         "is to send or output encrypted data directly"
+Raw : Raw is to send or output encrypted data directly
 
 ![raw](https://raw.githubusercontent.com/BeichenDream/Godzilla/master/raw.png)
 
-Base64 : Base64是将加密后的数据再进行Base64编码
-         "Base64 encoding of the encrypted data"
+Base64 : Base64 encoding of the encrypted data
 
 ![base64](https://raw.githubusercontent.com/BeichenDream/Godzilla/master/base64.png)
 
-## 插件支持 "Plug-in support"
+## Plug-in support
 
  1. JavaDynamicPayload
        1. MemoryShell
 
      ```
-     支持 哥斯拉 冰蝎 菜刀 ReGeorg 的内存shell  并且支持卸载
-     "Support Godzilla, Ice Scorpion, Chopper, ReGeorg's memory shell and uninstallation support"
+    Support Godzilla, Ice Scorpion, Chopper, ReGeorg's memory shell and uninstallation support
      ```
 
        2. Screen
