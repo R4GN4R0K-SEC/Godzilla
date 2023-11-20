@@ -38,7 +38,7 @@ Godzilla has 3 built-in Payloads, 6 built-in encryptors, 6 built-in script suffi
      2. PHP_XOR_RAW
 	     1. php
 
-### Raw or Base64 加密器区别 "encryptor features"
+### Raw or Base64 encryptor features
 
 Raw : Raw is to send or output encrypted data directly
 
