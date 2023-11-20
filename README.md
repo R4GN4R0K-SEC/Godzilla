@@ -1,6 +1,5 @@
-# Godzilla
+# GODZILLA
 
-# 哥斯拉不存在任何商业版本/收费版本 
 # Godzilla does not have any commercial version/payload version.
 
 ## 运行环境 "Runtime environment"
@@ -9,13 +8,12 @@
  3. PhpDynamicPayload ->  4.3.0及以上
  4. AspDynamicPayload -> 全版本
 
-## 简介 "Introduction of Godzilla"
+## Introduction of Godzilla
 
 
-### Payload以及加密器支持 "and encryptor support"
+### Payload and encryptor support
 
-哥斯拉内置了3种Payload以及6种加密器,6种支持脚本后缀,20个内置插件
-"Godzilla has 3 built-in Payloads, 6 built-in encryptors, 6 built-in script suffixes, and 20 built-in plug-ins"
+Godzilla has 3 built-in Payloads, 6 built-in encryptors, 6 built-in script suffixes, and 20 built-in plug-ins
 
  1. JavaDynamicPayload
 	 1. JAVA_AES_BASE64
